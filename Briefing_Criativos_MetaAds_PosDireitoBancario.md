@@ -3,6 +3,11 @@
 
 > Documento para o time de design. Reúne posicionamento, tom, direção de arte e copy
 > (texto principal, título e descrição) para 6 opções de criativo.
+>
+> **Foco desta leva: FUNDO DE FUNIL (conversão).** Todas as peças assumem que a pessoa
+> já conhece/considera o curso. O objetivo é converter — quebrar objeção, dar prova,
+> esclarecer formato e investimento e levar à inscrição/contato. Topo e meio de funil
+> serão trabalhados em outra etapa.
 
 ---
 
@@ -12,7 +17,7 @@
 |---|---|
 | Curso | Pós-Graduação em Direito Bancário e Mercado de Capitais |
 | Instituição | IDP — certificado reconhecido pelo MEC |
-| Modalidade | 100% online e **ao vivo** (Zoom), aulas quinzenais às sextas e sábados |
+| Modalidade | **100% online e ao vivo** (Zoom), aulas quinzenais às sextas e sábados |
 | Início | Agosto/2026 |
 | Duração | 15 meses (mínimo) — 384 horas |
 | Investimento | À vista **R$ 17.805,90** (economia de R$ 3.561,30) · ou 12x R$ 1.632,21 · até 24x R$ 890,30 |
@@ -26,20 +31,27 @@
 
 O IDP **não** compete no terreno do Insper (escola de negócios, selo Faria Lima) nem da FGV (marca acadêmica do eixo Rio–SP) nem das PUCs (preço/região). O território próprio do IDP é **Brasília como epicentro do Sistema Financeiro Nacional** — onde o BACEN regula, o CMN delibera, a CVM atua, a PGFN cobra e o STJ julga as grandes causas bancárias do país.
 
-**Mensagem-mãe:** *"As regras dos bancos são feitas em Brasília. Estude onde elas nascem."*
+**IMPORTANTE — como usar Brasília sem alienar o aluno de fora:** o curso é **100% online**. Brasília **não** é onde o aluno precisa estar; é de onde vem a autoridade do ensino. O argumento é: *você aprende com quem convive com quem escreve, fiscaliza e julga as regras — e faz isso de onde estiver, ao vivo.* Nunca sugerir presença obrigatória, deslocamento ou "venha para Brasília". Brasília é credencial do corpo docente e do conteúdo, entregue remotamente.
+
+**Mensagem-mãe (reformulada para o ângulo online):**
+*"O Direito Bancário do país é decidido em Brasília. Agora você aprende com quem está lá — de onde você estiver."*
+
+Variações: *"As regras do sistema financeiro nascem em Brasília. Estude com quem convive com elas, 100% online."* · *"O epicentro regulatório do país, ao vivo, na sua tela."*
 
 ---
 
 ## 3. Tom e identidade visual (regras para TODOS os criativos)
 
-**Tom:** autoridade institucional, sóbrio, factual. O público é maduro e sênior — despreza linguagem de "última chance, garanta já", típica de cursinho de OAB e infoproduto.
+**Tom:** autoridade institucional, sóbrio, factual. O público é maduro e sênior — despreza linguagem de "última chance, garanta já", típica de cursinho de OAB e infoproduto. Como é fundo de funil, pode haver **urgência mansa** (turma de agosto, inscrições abertas, vantagem do pagamento à vista) — nunca contador piscando nem "vagas acabando!!!".
 
 **Direção de arte — usar:**
-- Imagética institucional: arquitetura de Brasília, fachadas/ambientes que remetam a BACEN, STJ, CVM; salas de aula e ambientes jurídicos; campus IDP.
+- Imagética institucional como **credencial**: arquitetura de Brasília, ambientes que remetam a BACEN/STJ/CVM, salas de aula e campus IDP.
+- Um **sinal claro de online/ao vivo** em peças de conversão: tela/laptop em ambiente sóbrio, marca do formato "100% online e ao vivo", sem dar a entender presença física.
 - Paleta IDP: azul-marinho profundo / off-white / detalhe em terracota.
 - Tipografia editorial (serifada para títulos, sans para apoio). Composição limpa, muito respiro.
 
 **Direção de arte — evitar:**
+- Imagens que sugiram que o aluno precisa ir a Brasília (turma presencial, fila na recepção do campus como obrigação).
 - Gráficos subindo, cifrões voando, prédios espelhados genéricos, ícones de moeda.
 - Emoji em excesso, exclamações, contadores piscando.
 - Promessas de salário/empregabilidade e frases motivacionais vazias ("transforme sua carreira").
@@ -48,138 +60,133 @@ O IDP **não** compete no terreno do Insper (escola de negócios, selo Faria Lim
 
 ---
 
-## 4. As 6 opções de criativo
+## 4. As 6 opções de criativo — todas FUNDO DE FUNIL
 
 > Estrutura Meta de cada peça: **Texto principal** (corpo do anúncio) · **Título** (headline) · **Descrição** (link) · **CTA**.
-> Onde há mais de um título, são variações para teste A/B.
+> Onde há mais de um título, são variações para teste A/B. CTAs de conversão: *Inscreva-se* / *Fale com um consultor* / *Garanta sua vaga na turma de agosto*.
 
 ---
 
-### CRIATIVO 1 — Conceito-mestre (topo de funil · as 3 personas)
-**Canal:** Instagram/Facebook + LinkedIn · **Formato:** 1:1 e 9:16
+### CRIATIVO 1 — Decisão geral / autoridade online (todas as personas)
+**Objetivo:** consolidar a decisão de quem já considera o curso. · **Formato:** 1:1 e 9:16
 
-**Gancho / argumento:** As regras do sistema financeiro nascem em Brasília — estude no epicentro onde elas são escritas, julgadas e fiscalizadas.
+**Gancho / argumento:** Você aprende com quem está no epicentro regulatório do país — ao vivo e de onde estiver. A turma de agosto está com inscrições abertas.
 
-**Direção de arte:** Imagem sóbria e institucional de Brasília (Esplanada/fachada BACEN ou STJ) em luz de fim de tarde. Título em serifada grande sobre a imagem. Selo discreto do curso no rodapé. Sem nenhum elemento de "mercado financeiro genérico".
-Texto na arte: **"As regras dos bancos são feitas em Brasília."** / linha de apoio: *Estude onde elas nascem.*
+**Direção de arte:** Composição que une as duas ideias: ao fundo, ambiente institucional de Brasília (sóbrio); em primeiro plano, sinal de aula ao vivo (tela/Zoom em mesa de trabalho). Selo "100% online e ao vivo". Sem sugerir presença física.
+Texto na arte: **"O Direito Bancário do país é decidido em Brasília. Você aprende de onde estiver."**
 
-- **Texto principal:** O BACEN regula. A CVM fiscaliza. O STJ julga. E é em Brasília que o Direito Bancário do país é, de fato, decidido. A Pós-Graduação em Direito Bancário e Mercado de Capitais do IDP forma juristas para atuar no epicentro regulatório e jurisdicional do Sistema Financeiro Nacional. 100% online e ao vivo.
+- **Texto principal:** O BACEN regula, a CVM fiscaliza, o STJ julga — e é em Brasília que o Direito Bancário do país é decidido. Na Pós em Direito Bancário e Mercado de Capitais do IDP, você aprende com quem convive com esse ecossistema, **100% online e ao vivo**, de qualquer lugar do Brasil. Turma de agosto com inscrições abertas. Certificado reconhecido pelo MEC.
 - **Títulos (A/B):**
-  - "Estude o Direito Bancário onde ele é regulado e julgado"
-  - "As regras dos bancos são feitas em Brasília"
-- **Descrição:** Pós-Graduação IDP · 100% online e ao vivo · início em agosto
-- **CTA:** Saiba mais / Baixar guia do curso
+  - "Aprenda com quem está no epicentro regulatório — 100% online"
+  - "O epicentro do Direito Bancário, ao vivo na sua tela"
+- **Descrição:** Turma de agosto · online e ao vivo · certificado MEC
+- **CTA:** Inscreva-se / Fale com um consultor
 
 ---
 
-### CRIATIVO 2 — Persona Marina, a advogada em transição (ambição racional)
-**Canal:** Google (intenção) + LinkedIn/Instagram (remarketing) · **Formato:** 1:1 e 9:16
+### CRIATIVO 2 — Marina, a advogada em transição (objeção: ROI)
+**Objetivo:** quebrar a objeção de preço com retorno tangível. · **Formato:** 1:1 e 9:16
 
-**Gancho / argumento:** Você já atende demanda bancária — mas terceiriza ou perde justamente os casos mais lucrativos por falta do selo de especialista.
+**Gancho / argumento:** O curso se paga nos primeiros casos bancários que você deixa de terceirizar — e abre uma carteira que hoje passa pela sua porta sem você captar.
 
-**Direção de arte:** Advogada (~30 anos) em escritório real, à mesa de trabalho, postura confiante — nada de banco de imagens "comemorando com os braços para cima". Tom intimista e profissional. Destaque tipográfico para a pergunta-gancho.
-Texto na arte: **"Quantos casos bancários você já passou adiante?"**
+**Direção de arte:** Advogada (~30 anos) em escritório real, decidida, à mesa. Tom intimista e profissional. Destaque tipográfico para o gancho de retorno. Selo "100% online e ao vivo".
+Texto na arte: **"Um caso bancário bem conduzido paga boa parte do curso."**
 
-- **Texto principal:** PAS do BACEN, revisional bancário no STJ, recuperação judicial com bancos, autorização de fintech. Quando esses casos batem à porta, você resolve — ou terceiriza? Sem o selo de especialista, você compete por preço como generalista enquanto os honorários mais altos fecham em outras bancas. A Pós em Direito Bancário e Mercado de Capitais do IDP é o que tira você dessa categoria. 100% online e ao vivo.
+- **Texto principal:** PAS do BACEN, revisional no STJ, recuperação judicial com bancos, autorização de fintech. Sem o selo de especialista, esses casos — os mais bem pagos — fecham em outras bancas. A Pós em Direito Bancário e Mercado de Capitais do IDP te tira da categoria de generalista que compete por preço. **100% online e ao vivo**, com até 24x no investimento. Fale com um consultor e veja como o curso se paga.
 - **Títulos (A/B):**
-  - "Pare de terceirizar os casos bancários mais lucrativos da sua carteira"
-  - "Os temas bancários que você hoje passa adiante valem mais do que parece"
-- **Descrição:** Domine PAS do BACEN, contencioso no STJ e autorização de fintechs
-- **CTA:** Saiba mais / Baixar guia do curso
-
----
-
-### CRIATIVO 3 — Persona Ricardo, o jurídico de instituição financeira (autoridade institucional)
-**Canal:** LinkedIn (orgânico e pago) · **Formato:** 1:1 e 9:16
-
-**Gancho / argumento:** Pare de ser refém do escritório externo — sente do mesmo lado da mesa de quem desenha as soluções regulatórias da sua instituição.
-
-**Direção de arte:** Ambiente corporativo sóbrio — mesa de reunião / comitê executivo, profissional (~38 anos) de terno em posição de liderança. Luz neutra, vidro, tons institucionais. Nada de "open space jovem de startup".
-Texto na arte: **"A diretoria espera respostas sobre Open Finance e Drex. Você lidera essa conversa?"**
-
-- **Texto principal:** Quando chega um PAS do BACEN, sua instituição contrata um escritório de SP ou Rio e recebe a defesa pronta. E quando a diretoria pergunta sobre Open Finance, Drex, cripto e compliance regulatório — quem responde? A Pós em Direito Bancário e Mercado de Capitais do IDP dá o repertório para você liderar essas conversas, não apenas revisar o que terceiros entregam. Online e ao vivo, com quem está perto de quem desenha a regulação.
-- **Títulos (A/B):**
-  - "Lidere as conversas regulatórias que sua instituição já está tendo"
-  - "Do mesmo lado da mesa que os escritórios que sua instituição contrata"
-- **Descrição:** Open Finance, Drex, compliance e contencioso bancário · Pós IDP
-- **CTA:** Saiba mais / Baixar guia do curso
-
----
-
-### CRIATIVO 4 — Persona Dra. Helena, a operadora pública (responsabilidade institucional)
-**Canal:** LinkedIn (segmentado carreira pública) + remarketing · **Formato:** 1:1 e 9:16
-
-**Gancho / argumento:** A decisão é sua. Tenha a base técnica que o cargo exige para julgar e atuar nas grandes causas bancárias com segurança — e firmar-se como autoridade no tema.
-
-**Direção de arte:** Ambiente de gabinete/tribunal sóbrio — corredor institucional, sala de sessão, detalhe arquitetônico do STJ. Imagem grave, sem pessoas em pose comercial. Elegância e peso institucional.
-Texto na arte: **"A petição chega sofisticada. A decisão é sua."**
-
-- **Texto principal:** Superendividamento, revisional de juros, recuperação judicial com bancos credores, intervenção em instituição financeira. Os autos chegam com argumentação cada vez mais técnica — e a decisão é sua. A Pós em Direito Bancário e Mercado de Capitais do IDP é a ponte entre o saber jurídico geral e o domínio bancário específico: jurisprudência do STJ, normativos do BACEN e dinâmica de mercado. Para decidir com segurança e ser referência no tema.
-- **Títulos (A/B):**
-  - "A base técnica que decidir grandes causas bancárias exige"
-  - "Seja referência em Direito Bancário — não no município, no país"
-- **Descrição:** Online e ao vivo, em horário compatível com a carreira pública
-- **CTA:** Saiba mais / Baixar guia do curso
-
----
-
-### CRIATIVO 5 — Densidade da grade (consideração / retargeting · carrossel)
-**Canal:** Instagram/Facebook + LinkedIn · **Formato:** Carrossel 1:1 (recomendado)
-
-**Gancho / argumento:** Uma grade que cobre o sistema financeiro inteiro — da regulação prudencial ao Drex — sem encheção de linguiça.
-
-**Direção de arte:** Carrossel de 5–7 cards, cada um com um eixo temático em tipografia editorial sobre fundo marinho, detalhe terracota. Visual consistente, "índice de um tratado". Último card = capa do curso + CTA.
-Sugestão de cards:
-1. **"Do PAS do BACEN ao Drex. A grade completa."** (capa)
-2. Regulação e supervisão · requisitos prudenciais · regimes de crise
-3. Contratos e operações bancárias · meios de pagamento · câmbio e cross-border
-4. Ilícitos financeiros e processos sancionadores
-5. Mercado de capitais, valores mobiliários, fundos e derivativos
-6. ESG e Introdução ao Digital Finance
-7. **384h · 15 meses · 100% online e ao vivo · Certificado IDP** + CTA
-
-- **Texto principal:** Regulação prudencial, regimes de crise, contencioso sancionador, mercado de capitais, fundos, derivativos e digital finance. A Pós em Direito Bancário e Mercado de Capitais do IDP cobre o Sistema Financeiro Nacional de ponta a ponta — 384 horas, com aplicação prática e jurisprudência atualizada. Deslize para ver a grade.
-- **Títulos (A/B):**
-  - "A grade que cobre o sistema financeiro de ponta a ponta"
-  - "14 disciplinas, do contencioso bancário ao digital finance"
-- **Descrição:** 384h · 15 meses · 100% online e ao vivo · Certificado MEC
-- **CTA:** Saiba mais / Baixar guia do curso
-
----
-
-### CRIATIVO 6 — Prova institucional + formato (conversão / fundo de funil)
-**Canal:** Remarketing (todas as personas) · **Formato:** 1:1 e 9:16
-
-**Gancho / argumento:** Formação de alto nível compatível com a rotina de quem já é profissional — online e ao vivo, sem deslocamento para SP ou Rio.
-
-**Direção de arte:** Layout "ficha técnica" elegante — ícones discretos e dados em destaque sobre fundo institucional. Foto de aula/auditório IDP ao fundo. Comunica seriedade e organização, não promoção.
-Texto na arte: **"Online e ao vivo. Quinzenal. Certificado IDP."**
-
-- **Texto principal:** Aulas ao vivo pelo Zoom, quinzenalmente às sextas e sábados — com gravação para revisão. Sem custo de deslocamento ou hospedagem em SP ou Rio. 384 horas, 15 meses, certificado reconhecido pelo MEC. Início em agosto de 2026. Investimento à vista de R$ 17.805,90 ou em até 24x. Fale com um consultor e conheça a próxima turma.
-- **Títulos (A/B):**
-  - "Pós em Direito Bancário e Mercado de Capitais — 100% online e ao vivo"
-  - "Alto nível, sem sair da sua rotina. Início em agosto."
-- **Descrição:** Certificado MEC · até 24x · fale com um consultor
+  - "O curso se paga nos casos que você hoje terceiriza"
+  - "Pare de deixar os honorários bancários na mesa"
+- **Descrição:** Online e ao vivo · até 24x · fale com um consultor
 - **CTA:** Fale com um consultor / Inscreva-se
 
 ---
 
-## 5. Resumo de uso por etapa de funil
+### CRIATIVO 3 — Ricardo, o jurídico de instituição financeira (objeção: tempo + aprovação interna)
+**Objetivo:** vencer a objeção de tempo/rotina e municiar a justificativa do investimento à instituição. · **Formato:** 1:1 e 9:16
 
-| Criativo | Persona | Funil | Canal principal |
+**Gancho / argumento:** Densidade real, sem deslocamento, em formato compatível com 50h+ de trabalho semanal — e com argumentos para sua instituição bancar.
+
+**Direção de arte:** Ambiente corporativo sóbrio — profissional (~38 anos) em mesa de reunião/escritório, laptop com aula ao vivo. Comunica seriedade executiva. Selo "100% online e ao vivo · sextas e sábados".
+Texto na arte: **"Alto nível, sem deslocamento para SP ou Rio."**
+
+- **Texto principal:** Você não tem tempo a perder — e a diretoria espera respostas sobre Open Finance, Drex e compliance regulatório. A Pós em Direito Bancário e Mercado de Capitais do IDP é densa e aplicada, **ao vivo, quinzenalmente às sextas e sábados**, sem o custo de viajar para SP ou Rio. E, por ser IDP, é fácil justificar o investimento para a instituição. Fale com um consultor — atendemos também RH e financeiro.
+- **Títulos (A/B):**
+  - "Formação de alto nível sem sair da sua rotina"
+  - "O repertório para liderar o comitê — sem deslocamento"
+- **Descrição:** Ao vivo, sextas e sábados · justificativa para a instituição
+- **CTA:** Fale com um consultor / Inscreva-se
+
+---
+
+### CRIATIVO 4 — Dra. Helena, a operadora pública (objeção: qualidade e tempo)
+**Objetivo:** garantir densidade/qualidade e legado (publicação), em formato compatível com a carreira. · **Formato:** 1:1 e 9:16
+
+**Gancho / argumento:** Corpo docente de alto nível e grade densa, em horário compatível com a magistratura e o serviço público — com a chance de sair do curso com publicação, não só com certificado.
+
+**Direção de arte:** Ambiente institucional grave (gabinete/corredor de tribunal), com sinal sutil de estudo ao vivo (tela). Elegância e peso. Selo "ao vivo, com gravação para revisão".
+Texto na arte: **"Densidade técnica, no seu horário. E a chance de publicar."**
+
+- **Texto principal:** Para quem decide as grandes causas bancárias, curso fraco não é opção. A Pós em Direito Bancário e Mercado de Capitais do IDP entrega jurisprudência do STJ, normativos do BACEN e dinâmica de mercado em grade densa — **ao vivo, com gravação para revisão**, em horário compatível com a carreira pública. Os melhores trabalhos integram o repositório do IDP. Fale com um consultor e conheça as condições para a carreira pública.
+- **Títulos (A/B):**
+  - "Densidade técnica, no seu horário — com chance de publicar"
+  - "A formação à altura de quem julga e decide"
+- **Descrição:** Ao vivo + gravação · condições para a carreira pública
+- **CTA:** Fale com um consultor / Inscreva-se
+
+---
+
+### CRIATIVO 5 — Prova social: com quem você vai estudar (todas as personas)
+**Objetivo:** dar prova social e empurrar a decisão pelo valor da turma e da rede. · **Formato:** 1:1 e 9:16 (ou carrossel curto)
+
+**Gancho / argumento:** Você estuda ao lado de jurídicos de bancos, fintechs e órgãos reguladores — networking de verdade, online e ao vivo.
+
+**Direção de arte:** Visual de "composição de turma" — logos/segmentos representados (bancos públicos, fintechs, órgãos reguladores, bancas) tratados com sobriedade institucional, sem poluição. Selo "100% online e ao vivo".
+Texto na arte: **"Você não estuda sozinho. Estuda ao lado do setor."**
+
+- **Texto principal:** Jurídicos de bancos públicos, fintechs em fase de autorização, advogados de bancas que atendem instituições financeiras e operadores do setor público. A turma da Pós em Direito Bancário e Mercado de Capitais do IDP é, por si só, uma rede — e tudo **ao vivo, 100% online**, com debate real entre quem vive o setor. Turma de agosto com inscrições abertas.
+- **Títulos (A/B):**
+  - "Estude ao lado de quem move o sistema financeiro"
+  - "A turma é, por si só, uma rede do setor"
+- **Descrição:** Networking qualificado · 100% online e ao vivo
+- **CTA:** Inscreva-se / Fale com um consultor
+
+---
+
+### CRIATIVO 6 — Investimento e turma de agosto (urgência mansa · todas as personas)
+**Objetivo:** fechar a decisão com clareza de formato, investimento e janela. · **Formato:** 1:1 e 9:16
+
+**Gancho / argumento:** Inscrições abertas para a turma de agosto. Formato compatível com a rotina, investimento facilitado e vantagem real no pagamento à vista.
+
+**Direção de arte:** Layout "ficha técnica" elegante — dados em destaque (início agosto · 384h · 15 meses · 100% online e ao vivo · certificado MEC · até 24x). Foto de auditório/aula IDP ao fundo. Comunica organização e seriedade, não promoção barata.
+Texto na arte: **"Turma de agosto. Online e ao vivo. Certificado IDP."**
+
+- **Texto principal:** Inscrições abertas para a turma de agosto da Pós em Direito Bancário e Mercado de Capitais do IDP. **100% online e ao vivo**, 384 horas em 15 meses, certificado reconhecido pelo MEC. Investimento à vista de R$ 17.805,90 (economia de R$ 3.561,30) ou em até 24x de R$ 890,30. Garanta sua vaga ou fale com um consultor.
+- **Títulos (A/B):**
+  - "Turma de agosto com inscrições abertas — 100% online"
+  - "À vista você economiza R$ 3.561,30. Ou até 24x."
+- **Descrição:** Início em agosto · certificado MEC · até 24x
+- **CTA:** Inscreva-se / Fale com um consultor
+
+---
+
+## 5. Resumo das 6 peças (todas fundo de funil)
+
+| Criativo | Foco / objeção que resolve | Persona | CTA principal |
 |---|---|---|---|
-| 1 — Conceito-mestre | As três | Topo | IG/FB + LinkedIn |
-| 2 — Marina | Advogada em transição | Topo/meio | Google + remarketing |
-| 3 — Ricardo | Jurídico de instituição | Topo/meio | LinkedIn |
-| 4 — Dra. Helena | Operadora pública | Topo/meio | LinkedIn segmentado |
-| 5 — Grade | As três | Meio (consideração) | Carrossel IG/FB + LinkedIn |
-| 6 — Prova + formato | As três | Fundo (conversão) | Remarketing |
+| 1 — Decisão geral / autoridade online | "vale a pena? é online mesmo?" | As três | Inscreva-se |
+| 2 — Marina | ROI / preço | Advogada em transição | Fale com um consultor |
+| 3 — Ricardo | Tempo + aprovação na instituição | Jurídico de instituição | Fale com um consultor |
+| 4 — Dra. Helena | Qualidade + tempo + legado | Operadora pública | Fale com um consultor |
+| 5 — Prova social | "com quem vou estudar?" | As três | Inscreva-se |
+| 6 — Investimento / turma agosto | Formato + preço + janela | As três | Inscreva-se |
 
 ---
 
 ## 6. Checklist de aprovação por peça
-- [ ] Tom institucional mantido (sem urgência artificial / promessa salarial)
+- [ ] Tom institucional mantido (urgência mansa, sem "última chance" / promessa salarial)
+- [ ] Brasília usada como credencial do ensino, **nunca** como exigência de presença
+- [ ] Sinal claro de "100% online e ao vivo" presente
 - [ ] Imagética institucional (sem cifrões/gráficos genéricos)
 - [ ] Paleta e tipografia IDP
 - [ ] Versões 1:1 e 9:16 (e carrossel onde indicado)
-- [ ] CTA e descrição preenchidos
+- [ ] CTA de conversão e descrição preenchidos
