@@ -300,7 +300,289 @@ Texto na arte: **"Turma de agosto. Online e ao vivo. Certificado IDP."**
 
 ---
 
-## 7. Checklist de aprovação por peça
+## 7. Google Ads — campanhas, palavras-chave e anúncios
+
+> Verba alocada para Google: **R$ 4.000** no período. Estrutura priorizando intenção (Search) e marca, com remarketing leve. Tipo de correspondência padrão: **frase**; **exata** para termos campeões depois de 2 semanas; **broad apenas em teste controlado**.
+>
+> Limites técnicos respeitados: títulos ≤ 30 caracteres · descrições ≤ 90 caracteres · caminho de exibição ≤ 15 caracteres.
+
+### 7.1 Estrutura
+
+| Campanha | Tipo | Verba | Lance |
+|---|---|---|---|
+| **Search — Pós Direito Bancário** | Search | R$ 2.000 | Maximizar conversões (após 30 conv: tCPA) |
+| **Search — Mercado de Capitais & Regulatório** | Search | R$ 1.000 | Maximizar conversões |
+| **Search — Brand IDP** | Search | R$ 500 | tCPA agressivo / IS alto |
+| **Display — Remarketing** | Display | R$ 500 | vCPM / CPC manual baixo |
+
+### 7.2 Palavras-chave negativas globais (aplicar em todas as campanhas Search)
+
+`grátis`, `gratuito`, `free`, `pdf`, `apostila`, `resumo`, `concurso`, `oab`, `1 fase oab`, `2 fase oab`, `estágio`, `vagas`, `emprego`, `salário`, `tcc pronto`, `monografia pronta`, `download`, `youtube`, `aula grátis`, `simulado`, `como passar`, `bacen concurso`, `cvm concurso`, `insper`, `fgv`, `puc`, `senac`, `damasio`, `ibmec`
+
+### 7.3 Grupos de anúncios (Campanha 1 — Pós Direito Bancário)
+
+#### Grupo A — Pós Direito Bancário (núcleo)
+
+**Palavras-chave (frase):**
+```
+"pós direito bancário"
+"pós graduação direito bancário"
+"pós direito bancário online"
+"pós direito bancário ao vivo"
+"pos graduação direito bancário e mercado de capitais"
+"especialização direito bancário"
+"especialização direito bancário online"
+"melhor pós direito bancário"
+"pós direito bancário a distância"
+"curso pós graduação direito bancário"
+```
+
+**RSA — Anúncio 1**
+- **Títulos (15):**
+  1. Pós em Direito Bancário (pin pos. 1)
+  2. Pós-Graduação IDP
+  3. Direito Bancário e Mercado de Capitais
+  4. 100% Online e Ao Vivo
+  5. Certificado Reconhecido pelo MEC
+  6. Turma de Agosto Aberta
+  7. Aulas Quinzenais às Sex e Sáb
+  8. 384 Horas em 15 Meses
+  9. Inscrições Abertas — IDP
+  10. Pague em até 24x
+  11. À Vista: R$ 17.805,90
+  12. Aulas Gravadas para Revisão
+  13. Aprenda com Quem Decide o SFN
+  14. Fale com um Consultor IDP
+  15. Pós Online em Direito Bancário
+- **Descrições (4):**
+  1. Pós-Graduação IDP em Direito Bancário e Mercado de Capitais. 100% online e ao vivo.
+  2. 384 horas em 15 meses. Aulas quinzenais sex e sáb. Certificado reconhecido pelo MEC.
+  3. Aprenda com docentes próximos do BACEN, CVM e STJ — de onde você estiver.
+  4. Turma de agosto aberta. À vista R$ 17.805,90 ou em até 24x. Fale com consultor.
+- **Caminhos:** /pos-direito-bancario · /turma-2026
+- **URL final:** página do curso
+
+**RSA — Anúncio 2 (variação Marina — quebra de objeção)**
+- **Títulos (10+):**
+  1. Domine os Casos Bancários
+  2. Pare de Terceirizar Casos Bancários
+  3. PAS do BACEN, Revisional, STJ
+  4. Especialize-se em Direito Bancário
+  5. Pós IDP em Direito Bancário
+  6. 100% Online e Ao Vivo
+  7. Certificado MEC
+  8. Turma de Agosto Aberta
+  9. Aulas Gravadas para Revisão
+  10. Até 24x no Investimento
+  11. Aprenda com Docentes do Setor
+  12. Fale com um Consultor
+- **Descrições:**
+  1. PAS do BACEN, contencioso no STJ, autorização de fintech. Pós IDP.
+  2. O selo de especialista que falta para fechar os casos mais bem pagos da sua carteira.
+  3. 100% online e ao vivo. 384h em 15 meses. Certificado MEC. Fale com consultor.
+  4. Inscrições abertas para a turma de agosto. Até 24x ou à vista com economia.
+
+#### Grupo B — LLM Direito Bancário
+
+**Palavras-chave (frase):**
+```
+"llm direito bancário"
+"llm direito bancário e mercado de capitais"
+"llm mercado financeiro"
+"llm direito bancário brasília"
+"llm direito bancário online"
+```
+
+**RSA — Anúncio 1**
+- **Títulos:** Pós em Direito Bancário · LLM Direito Bancário Online · Pós-Graduação IDP · 100% Online e Ao Vivo · Direito Bancário e Mercado de Capitais · Certificado MEC · Turma de Agosto · 384 Horas em 15 Meses · Aulas Gravadas · Até 24x · Aprenda com Quem Decide o SFN · Fale com um Consultor · Inscrições Abertas
+- **Descrições:** mesmas do Grupo A (rotacionar).
+
+### 7.4 Grupos de anúncios (Campanha 2 — Mercado de Capitais & Regulatório)
+
+#### Grupo C — Mercado de Capitais
+
+**Palavras-chave (frase):**
+```
+"pós mercado de capitais"
+"pós graduação mercado de capitais"
+"especialização mercado de capitais"
+"pós valores mobiliários"
+"curso direito do mercado de capitais"
+"pós graduação direito do mercado financeiro"
+"pós cvm regulação"
+"pós graduação fundos de investimento"
+"pós graduação derivativos direito"
+```
+
+**RSA — Anúncio 1**
+- **Títulos:**
+  1. Pós em Mercado de Capitais (pin 1)
+  2. Direito Bancário e Mercado de Capitais
+  3. Pós-Graduação IDP
+  4. 100% Online e Ao Vivo
+  5. Mercado de Capitais, Fundos e Derivativos
+  6. Aprenda com Quem Está Perto da CVM
+  7. Certificado MEC · 15 Meses
+  8. Turma de Agosto Aberta
+  9. Aulas Quinzenais ao Vivo
+  10. Aulas Gravadas para Revisão
+  11. À Vista R$ 17.805,90
+  12. Pague em até 24x
+  13. Fale com um Consultor IDP
+- **Descrições:**
+  1. Valores mobiliários, fundos, derivativos e digital finance. Pós IDP, 100% online.
+  2. Aprenda com docentes próximos da CVM, BACEN e STJ — de onde você estiver.
+  3. 384 horas em 15 meses. Aulas quinzenais sex e sáb. Certificado reconhecido pelo MEC.
+  4. Turma de agosto aberta. Inscreva-se ou fale com um consultor.
+
+#### Grupo D — Compliance / Regulatório / BACEN
+
+**Palavras-chave (frase):**
+```
+"pós compliance bancário"
+"curso compliance bancário"
+"pós direito regulatório financeiro"
+"curso pas bacen"
+"curso processo administrativo sancionador bacen"
+"pós regulação financeira"
+"curso normativos bacen"
+"pós compliance financeiro"
+"pós graduação open finance"
+"curso drex direito"
+```
+
+**RSA — Anúncio 1 (variação Ricardo)**
+- **Títulos:**
+  1. Pós em Direito Bancário (pin 1)
+  2. PAS do BACEN, Compliance e SFN
+  3. Open Finance, Drex e Regulação
+  4. Pós-Graduação IDP
+  5. 100% Online e Ao Vivo
+  6. Aprenda com Quem Está no Epicentro
+  7. Certificado MEC · 15 Meses
+  8. Turma de Agosto Aberta
+  9. Lidere a Pauta Regulatória da Sua Instituição
+  10. Aulas Quinzenais Sex e Sáb
+  11. Até 24x no Investimento
+  12. Fale com um Consultor IDP
+- **Descrições:**
+  1. PAS do BACEN, Open Finance, Drex, compliance bancário. Pós IDP, online e ao vivo.
+  2. Repertório para liderar a pauta regulatória da sua instituição. 100% online.
+  3. Aprenda com docentes próximos do BACEN, CVM e STJ. Certificado MEC.
+  4. Turma de agosto aberta. À vista R$ 17.805,90 ou até 24x. Fale com consultor.
+
+#### Grupo E — Temas específicos (cauda longa)
+
+**Palavras-chave (frase):**
+```
+"curso lei do superendividamento"
+"pós direito do consumidor bancário"
+"pós graduação contencioso bancário"
+"curso revisional bancário"
+"curso recuperação judicial bancos"
+"pós graduação direito das fintechs"
+"curso autorização fintech bacen"
+"pós digital finance"
+"pós graduação esg financeiro"
+"curso câmbio e operações cross border"
+```
+
+**RSA — Anúncio 1**
+- **Títulos:**
+  1. Pós em Direito Bancário (pin 1)
+  2. Superendividamento, Revisional, STJ
+  3. Fintechs, Open Finance e Digital Finance
+  4. Pós-Graduação IDP
+  5. 100% Online e Ao Vivo
+  6. 384 Horas em 15 Meses
+  7. Certificado MEC
+  8. Aulas Quinzenais ao Vivo
+  9. Turma de Agosto Aberta
+  10. Até 24x ou à Vista com Economia
+  11. Fale com um Consultor IDP
+- **Descrições:**
+  1. Do contencioso bancário no STJ à regulação de fintechs. Pós IDP, 100% online.
+  2. 14 disciplinas que cobrem o SFN inteiro. 384h em 15 meses. Certificado MEC.
+  3. Aprenda com docentes próximos do BACEN, CVM e STJ — de onde você estiver.
+  4. Inscreva-se na turma de agosto ou fale com um consultor.
+
+### 7.5 Campanha 3 — Brand IDP
+
+**Palavras-chave (exata e frase):**
+```
+[idp pós direito bancário]
+[idp direito bancário]
+"idp pós direito bancário e mercado de capitais"
+"pós idp direito bancário"
+"idp brasília pós direito"
+"idp pós graduação direito bancário"
+```
+
+**Negativas extras:** `mestrado`, `doutorado`, `graduação`, `aluno`, `portal`, `webmail`, `boletim`
+
+**RSA — Brand**
+- **Títulos:**
+  1. Pós IDP em Direito Bancário (pin 1)
+  2. Direito Bancário e Mercado de Capitais
+  3. Pós-Graduação Oficial — IDP (pin 2)
+  4. 100% Online e Ao Vivo
+  5. Certificado Reconhecido pelo MEC
+  6. Turma de Agosto Aberta
+  7. 384 Horas em 15 Meses
+  8. Aulas Quinzenais Sex e Sáb
+  9. Aulas Gravadas para Revisão
+  10. À Vista R$ 17.805,90
+  11. Pague em até 24x
+  12. Fale com um Consultor IDP
+- **Descrições:**
+  1. Página oficial da Pós IDP em Direito Bancário e Mercado de Capitais. 100% online.
+  2. Aulas ao vivo, gravação para revisão, certificado MEC. Turma de agosto aberta.
+  3. À vista R$ 17.805,90 (economia de R$ 3.561,30) ou em até 24x.
+  4. Inscreva-se ou fale com um consultor IDP.
+- **Caminhos:** /pos · /direito-bancario
+
+### 7.6 Extensões (aplicar à conta — herda para todas as campanhas)
+
+**Sitelinks (4–6):**
+- Grade do curso → /pos-direito-bancario#grade — *Descrição:* "14 disciplinas, do PAS do BACEN ao Drex." / "384h em 15 meses."
+- Investimento → /pos-direito-bancario#investimento — *Descrição:* "À vista com economia de R$ 3.561,30." / "Ou em até 24x de R$ 890,30."
+- Fale com um consultor → link WhatsApp — *Descrição:* "Tire suas dúvidas com a equipe IDP." / "Atendimento em horário comercial."
+- Baixe o guia do curso → /pos-direito-bancario/guia — *Descrição:* "Grade, investimento e calendário." / "PDF completo da turma 2026.2."
+- Corpo docente → /pos-direito-bancario#docentes
+- Metodologia → /pos-direito-bancario#metodologia
+
+**Frases de destaque (callouts):**
+`100% Online e Ao Vivo` · `Certificado reconhecido pelo MEC` · `Aulas quinzenais` · `Turma de agosto 2026` · `Aulas gravadas para revisão` · `Até 24x no investimento` · `À vista com economia` · `Bibliotecas virtuais inclusas` · `Atendimento por consultor`
+
+**Snippets estruturados:**
+- Cabeçalho **Cursos:** Direito Bancário, Mercado de Capitais, Compliance, Regulação Financeira, Open Finance, Digital Finance
+- Cabeçalho **Destaques:** Online, Ao vivo, MEC, 15 meses, 384 horas
+
+**Extensão de chamada:** número do consultor IDP, horário comercial.
+
+**Extensão de imagem:** subir 4–6 imagens institucionais (fachada IDP, sala de aula, ambiente Zoom). **Não** usar imagens com gráficos/cifrões.
+
+### 7.7 Páginas de destino e mensuração
+
+- URL final dos grupos A, B, C, D, E e Brand: página oficial do curso.
+- Garantir que a LP tenha **dois CTAs visíveis acima da dobra**: "Inscreva-se" (formulário) e "Fale com um consultor" (WhatsApp).
+- **Conversões a configurar no Google Ads:**
+  1. *Lead — Formulário enviado* (primária)
+  2. *Clique no WhatsApp* (primária)
+  3. *Baixou guia do curso* (secundária)
+- Importar conversões via GA4 e/ou tag direta do Google Ads.
+- Conferir que o **GCLID** está sendo passado ao CRM para fechar o ciclo de matrícula.
+
+### 7.8 Calendário de gestão sugerido
+
+- **Semana 1:** subir Grupo A + Brand. Monitorar termos de busca diariamente, adicionar negativas.
+- **Semana 2:** subir Grupos B, C e D. Pausar palavras com CTR < 2% e sem conversão após 100 cliques.
+- **Semana 3:** ativar Display Remarketing. Promover top keywords para correspondência exata.
+- **Semana 4+:** mudar lance para **tCPA** quando atingir 30 conversões em 30 dias.
+
+---
+
+## 8. Checklist de aprovação por peça
 - [ ] Tom institucional mantido (urgência mansa, sem "última chance" / promessa salarial)
 - [ ] Brasília usada como credencial do ensino, **nunca** como exigência de presença
 - [ ] Sinal claro de "100% online e ao vivo" presente
