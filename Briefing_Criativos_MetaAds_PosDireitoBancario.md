@@ -182,7 +182,125 @@ Texto na arte: **"Turma de agosto. Online e ao vivo. Certificado IDP."**
 
 ---
 
-## 6. Checklist de aprovação por peça
+## 6. Conjuntos de anúncios (ad sets) por público
+
+> Como toda esta leva é **fundo de funil**, o peso de investimento deve ir para públicos que já demonstraram intenção (remarketing + lookalike de conversões). Os conjuntos por interesse das personas entram como reforço, com criativos que resolvem objeção.
+>
+> **Observação técnica:** o Meta vem restringindo segmentações por cargo/empregador no "Detailed Targeting". As listas abaixo priorizam **interesses, páginas e comportamentos** ainda disponíveis no Brasil. Onde a segmentação por cargo for fraca, o filtro real virá das **custom audiences** (lista CRM, visitantes da LP, lead ads) e dos **lookalikes**.
+>
+> **Configuração comum a todos os conjuntos:** Localização — Brasil; Idioma — Português (Brasil); Posicionamentos — Advantage+ Placements (Facebook e Instagram feeds, stories, reels); **Advantage+ Audience: DESLIGADO** nos conjuntos de remarketing e lookalike (para preservar o público); **LIGADO com restrição** nos conjuntos de interesse (para o Meta expandir sem fugir do perfil).
+
+---
+
+### CONJUNTO 1 — Remarketing site (visitantes da LP)
+**Tipo:** Custom audience · **Peso sugerido de verba:** 25–30%
+
+- **Público:** visitantes da pos.idp.edu.br nos últimos 30, 60 e 90 dias (criar 3 audiences e usar a de 90 como padrão; testar 30 dias para alta intenção).
+- **Exclusões:** quem já preencheu formulário de inscrição / lead nos últimos 180 dias; alunos atuais (lista CRM).
+- **Criativos recomendados:** **1, 5, 6** (decisão geral, prova social, investimento/turma agosto).
+- **CTA dominante:** Inscreva-se.
+
+---
+
+### CONJUNTO 2 — Remarketing engajamento social (IG + FB)
+**Tipo:** Custom audience · **Peso sugerido:** 10–15%
+
+- **Público:** quem interagiu com a página/perfil do IDP nos últimos 180 dias (curtidas, comentários, salvos, mensagem, clique em anúncio anterior). Criar audience separada para engajamento com vídeo 50%+ se houver histórico.
+- **Exclusões:** mesmas do Conjunto 1.
+- **Criativos recomendados:** **1, 5** (autoridade + prova social).
+- **CTA:** Inscreva-se / Fale com um consultor.
+
+---
+
+### CONJUNTO 3 — Remarketing leads não convertidos (CRM)
+**Tipo:** Custom audience por lista · **Peso sugerido:** 10–15%
+
+- **Público:** lista de e-mails de leads que baixaram o guia, abriram formulário ou conversaram com consultor e não fecharam, dos últimos 12 meses. Subir como Custom Audience (Customer File).
+- **Exclusões:** matriculados.
+- **Criativos recomendados:** **2, 3, 4** (peças de objeção por persona — o consultor pode marcar qual perfil é cada lead) **+ 6** (investimento/turma).
+- **CTA:** Fale com um consultor.
+
+---
+
+### CONJUNTO 4 — Lookalike de conversões (1–2%)
+**Tipo:** Lookalike · **Peso sugerido:** 15–20%
+
+- **Público-semente:** lista de alunos matriculados nos últimos 24 meses do IDP em cursos correlatos (MBA em Mercados Financeiros, LLM em Tributário, LLM em Processo nos Tribunais Superiores). Mínimo 1.000 perfis na semente; se não tiver, usar leads qualificados que avançaram no funil.
+- **Tamanho:** 1% para teste inicial; 2% como expansão.
+- **Exclusões:** Conjuntos 1, 2 e 3 (evitar sobreposição).
+- **Criativos recomendados:** **1, 5, 6**.
+- **CTA:** Inscreva-se / Fale com um consultor.
+
+---
+
+### CONJUNTO 5 — Persona Marina (advogada em transição)
+**Tipo:** Interesse + comportamento · **Peso sugerido:** 10%
+
+- **Idade:** 28–42 · **Gênero:** todos.
+- **Localização:** Brasil — refinar para capitais e cidades-polo (SP, RJ, BH, BSB, Goiânia, Curitiba, POA, Salvador, Recife, Fortaleza).
+- **Detailed Targeting — Interesses (combinar com OR dentro do bloco e AND com "Direito"):**
+  - Direito (Law); Advocacia; OAB — Ordem dos Advogados do Brasil; Migalhas; Conjur; Jota; Revista dos Tribunais; Editora Saraiva; Editora Juspodivm; Almedina; Direito tributário; Direito empresarial; Direito do consumidor; Recuperação judicial; Lei do superendividamento; Sociedade de advogados.
+- **Demográfico — Educação:** Bacharelado · **Campo de estudo:** Direito (quando disponível).
+- **Narrow / "E também devem corresponder":** Advocacia OU OAB (para não pegar estudantes).
+- **Exclusões:** estudantes de graduação; Conjuntos 1, 2, 3.
+- **Criativos recomendados:** **2** (peça-âncora) **+ 6** (investimento).
+- **CTA:** Fale com um consultor.
+
+---
+
+### CONJUNTO 6 — Persona Ricardo (jurídico de instituição financeira)
+**Tipo:** Interesse + comportamento · **Peso sugerido:** 10%
+
+- **Idade:** 32–52 · **Gênero:** todos.
+- **Localização:** Brasil — peso em SP, RJ, BSB, BH, POA, Curitiba (sedes/regionais de bancos e fintechs).
+- **Detailed Targeting — Interesses (foco em ecossistema financeiro/regulatório):**
+  - Banco Central do Brasil (BACEN); Febraban; Anbima; ABBC; Sistema Financeiro Nacional; Mercado financeiro; Compliance; LGPD; Open Banking / Open Finance; Pix; Drex; Fintech; Banco Itaú; Bradesco; Santander Brasil; Banco do Brasil; Caixa Econômica Federal; BTG Pactual; XP Investimentos; Nubank; Banco Inter; Sicoob; Sicredi; Valor Econômico; Brazil Journal; Capital Aberto; Estadão Economia.
+- **Demográfico — Educação:** Bacharelado, Pós-graduação, MBA · **Campo:** Direito, Administração.
+- **Narrow:** Direito OU Compliance OU Regulação financeira.
+- **Exclusões:** Conjuntos 1, 2, 3; estudantes; cargos júnior aparentes (quando possível, via interesses de "estágio/trainee").
+- **Criativos recomendados:** **3** (peça-âncora) **+ 5** (prova social) **+ 6** (investimento).
+- **CTA:** Fale com um consultor.
+
+---
+
+### CONJUNTO 7 — Persona Helena (carreira pública)
+**Tipo:** Interesse + comportamento · **Peso sugerido:** 10%
+
+- **Idade:** 35–58 · **Gênero:** todos.
+- **Localização:** Brasil todo, peso em capitais e DF.
+- **Detailed Targeting — Interesses:**
+  - Magistratura; Ministério Público; Defensoria Pública; Advocacia Pública; OAB; AMB — Associação dos Magistrados Brasileiros; Anamatra; AJUFE; Conamp; ANPR; ANPT; ANPM; ENFAM; Escola Nacional de Formação e Aperfeiçoamento de Magistrados; Conjur; Jota; Migalhas; Editora Juspodivm; Editora Fórum; Revista dos Tribunais; Almedina; Direito Constitucional; Direito Administrativo; Direito Processual Civil.
+- **Demográfico — Educação:** Pós-graduação, Mestrado, Doutorado · **Campo:** Direito.
+- **Renda:** segmento de renda mais alta quando disponível.
+- **Narrow:** Magistratura OU Ministério Público OU Procuradoria OU Defensoria Pública.
+- **Exclusões:** Conjuntos 1, 2, 3; estudantes de OAB/cursinho.
+- **Criativos recomendados:** **4** (peça-âncora) **+ 5** (prova social).
+- **CTA:** Fale com um consultor.
+
+---
+
+### Sumário dos conjuntos
+
+| # | Conjunto | Tipo | Verba sugerida | Criativos |
+|---|---|---|---|---|
+| 1 | Remarketing site | Custom | 25–30% | 1, 5, 6 |
+| 2 | Remarketing engajamento social | Custom | 10–15% | 1, 5 |
+| 3 | Remarketing leads CRM | Custom | 10–15% | 2, 3, 4, 6 |
+| 4 | Lookalike de conversões 1–2% | Lookalike | 15–20% | 1, 5, 6 |
+| 5 | Persona Marina | Interesses | 10% | 2, 6 |
+| 6 | Persona Ricardo | Interesses | 10% | 3, 5, 6 |
+| 7 | Persona Helena | Interesses | 10% | 4, 5 |
+
+**Boas práticas de campanha (Meta):**
+- Objetivo da campanha: **Conversões** (otimização para *Lead* ou *Compra*, conforme a meta — preferencialmente *Lead* se o funil for inscrição → consultor).
+- Pixel + CAPI ativos com os eventos *PageView, ViewContent, Lead, CompleteRegistration*.
+- 1 campanha com 7 conjuntos é demais para começar: subir em **2 campanhas** (uma de Remarketing/LAL, uma de Personas) para o algoritmo não competir entre conjuntos.
+- Janela de atribuição: 7 dias clique / 1 dia visualização.
+- Frequência cap em remarketing: monitorar ≤ 3/semana por conjunto.
+
+---
+
+## 7. Checklist de aprovação por peça
 - [ ] Tom institucional mantido (urgência mansa, sem "última chance" / promessa salarial)
 - [ ] Brasília usada como credencial do ensino, **nunca** como exigência de presença
 - [ ] Sinal claro de "100% online e ao vivo" presente
